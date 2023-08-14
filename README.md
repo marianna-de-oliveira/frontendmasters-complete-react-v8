@@ -1,1 +1,3 @@
-# frontendmasters-complete-react-v8
+# Front-end Masters
+## Complete React v8
+
